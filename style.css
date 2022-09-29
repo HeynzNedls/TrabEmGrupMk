@@ -240,7 +240,7 @@ form button:hover {
   display: flex;
   align-items: flex-end;
   flex-direction: column;
-  margin-top: 300px;
+  margin-top: 240px;
   height: 60vh;
   width: 40vh;
 }
@@ -382,8 +382,8 @@ header .reser {
   position: absolute;
   z-index: 1;
   color: #fff;
-  font-size: 5rem;
-  margin-top: 150px;
+  font-size: 4rem;
+  margin-top: 170px;
   align-items: center;
   text-shadow: 8px 2px #283618;
 }
