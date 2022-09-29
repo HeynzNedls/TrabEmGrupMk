@@ -338,7 +338,7 @@ header .reser {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  font-size: 4em;
+  font-size: 5em;
   color: white;
   text-shadow: 8px 2px #dda15e;
 }
@@ -358,12 +358,12 @@ header .reser {
 
 #reservs .container .card {  
   width: 120vh;
-  height: 130vh;
+  height: 120vh;
   position: absolute;
   bottom: 0;
   right: 0;
   left: 0;
-  top: 100vh;
+  top: 105vh;
   margin: auto;
   display: flex;
   justify-content: center;
