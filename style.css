@@ -228,6 +228,10 @@ form button:hover {
 .btnr:hover {
   background-color: #606c38;
 }
+.imagemReserva{
+  border-radius: 10px;
+  height: auto;
+}
 
 /*==Mapa==*/
 
