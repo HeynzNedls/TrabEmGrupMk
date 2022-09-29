@@ -429,7 +429,7 @@ header .reser {
   width: 94.9%;
   display: flex;
   flex-direction: row;
-  margin-top: 135px;
+  margin-top: 125px;
   align-items: center;
   justify-content: space-evenly;
   padding: .60416% 50px; /*==localidade do texto==*/
