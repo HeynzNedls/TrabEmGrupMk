@@ -378,7 +378,7 @@ header .reser {
   position: absolute;
   z-index: 1;
   color: #fff;
-  font-size: 4rem;
+  font-size: 5rem;
   margin-top: 170px;
   align-items: center;
   text-shadow: 8px 2px #283618;
@@ -389,9 +389,9 @@ header .reser {
   z-index: 9;
   width: 490px;
   color: #fff;
-  margin-top: 270px;
+  margin-top: 290px;
   text-align: left;
-  font-size: 20px;
+  font-size: 25px;
   text-shadow: 2px 1px #283618;
 }
 #reservs .container .card .p2 {
@@ -399,15 +399,15 @@ header .reser {
   z-index: 9;
   width: 490px;
   color: #fff;
-  margin-top: 390px;
+  margin-top: 490px;
   text-align: left;
-  font-size: 20px;
+  font-size: 25px;
   text-shadow: 2px 1px #283618;
 }
 #reservs .container .card button {
   position: absolute;
   z-index: 9;
-  margin-top: 700px;
+  margin-top: 850px;
   padding: 10px 20px;
   border-radius: 20px;
   border: none;
